@@ -1,1 +1,1 @@
-# HTMP-Boilerplate
+# HTML-Boilerplate
